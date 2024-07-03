@@ -11,4 +11,4 @@ SpotList is a PyQt5-based desktop application that allows users to create Spotif
 
 ## Screenshots
 
-![SpotList Screenshot]([screenshot.png](https://i.ibb.co/nkFV61S/Capture.png)) *(Include a screenshot of your application here)*
+![SpotList Screenshot]([screenshot.png](https://i.ibb.co/nkFV61S/Capture.png)) 
